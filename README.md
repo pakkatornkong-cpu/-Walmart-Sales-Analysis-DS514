@@ -98,7 +98,7 @@ Walmart weekly sales analysis
 แทนการแบ่งข้อมูลแบบสุ่ม (random train-test split)  
 โครงงานนี้เลือกใช้ **Time-based split** โดยอ้างอิงตามลำดับเวลา
 
-```text
+
 Training set : ข้อมูลก่อนวันที่ 2012-01-01  
 Testing set  : ข้อมูลตั้งแต่วันที่ 2012-01-01 เป็นต้นไป
 ---
